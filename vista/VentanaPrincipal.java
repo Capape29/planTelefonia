@@ -19,7 +19,7 @@ public class VentanaPrincipal extends JFrame{
         this.add(miPanelOperaciones);
 
         //Caracteristicas de la ventana
-        this.setTitle("Plan Telefonía");
+        this.setTitle("Camilo Palacio");
         this.setSize(300,300);
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
